@@ -1,8 +1,12 @@
-bahan-bahannya :
+bahan-bahannya :                          
 - sayur
 . kangkung
 .kol
 .buncis
 - bumbu
+.cabe
+.tomat
+.bawang
+^bawang merah
 - air
 - minyak
